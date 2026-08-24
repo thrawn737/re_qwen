@@ -1,0 +1,294 @@
+手术ID: L01
+总窗口数: 58
+============================================================
+
+[L01_window_0000-0019.txt]
+The endoscope is used to visualize the nasal cavity, focusing on the area near the inferior turbinate. The camera captures the mucosal lining and surrounding tissues, with no active manipulation occurring. The endoscope is held steady throughout the sequence, providing a clear view of the nasal anatomy.
+
+============================================================
+
+[L01_window_0020-0039.txt]
+The surgeon continues the endoscopic sinus surgery, using a Kerrison rongeur to make precise cuts and remove tissue from the nasal cavity. The instrument is maneuvered carefully to access different areas, ensuring thorough removal of the targeted tissue while maintaining a clear view of the surgical site. The camera captures the detailed work being done, highlighting the precision required for this delicate procedure.
+
+============================================================
+
+[L01_window_0040-0059.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The instrument is held steady at times, allowing for brief pauses to inspect the cleaned areas.
+
+============================================================
+
+[L01_window_0060-0079.txt]
+The endoscope is positioned within the nasal cavity, providing a close-up view of the tissue. The camera captures the smooth, reddish mucosa lining the nasal passages. There is no active manipulation by the instrument; the endoscope remains steady, allowing for a detailed inspection of the nasal cavity's anatomy.
+
+============================================================
+
+[L01_window_0080-0099.txt]
+The endoscope is used to visualize the nasal cavity, focusing on the area near the inferior turbinate. The camera captures the mucosal lining and surrounding tissues as the endoscope is maneuvered slightly to provide a better view. There is no active manipulation of instruments at this moment, and the endoscope remains steady, allowing for a detailed examination of the nasal anatomy.
+
+============================================================
+
+[L01_window_0100-0119.txt]
+The endoscope is positioned within the nasal cavity, providing a clear view of the mucosal lining. The camera captures the smooth, pinkish-red tissue with minimal activity observed. The instrument remains stationary, allowing for a detailed inspection of the nasal cavity's anatomy.
+
+============================================================
+
+[L01_window_0120-0139.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear mucus and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning of the nasal passages. The camera captures close-up views of the nasal cavity as the suction is applied, highlighting the meticulous nature of the procedure. The surgeon's focus remains on maintaining a clear field of view for further manipulations.
+
+============================================================
+
+[L01_window_0140-0159.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning and visualization of the surgical field. The suction helps maintain a clear view for precise dissection and manipulation of the nasal structures.
+
+============================================================
+
+[L01_window_0160-0179.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The camera provides a close-up view of the nasal cavity as the suction is applied, highlighting the meticulous nature of the procedure.
+
+============================================================
+
+[L01_window_0180-0199.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera captures the meticulous process of removing blood clots and maintaining a clear view of the operative field.
+
+============================================================
+
+[L01_window_0200-0219.txt]
+The endoscope is used to visualize the nasal cavity, focusing on the area near the inferior turbinate. The camera captures the smooth mucosal lining and the surrounding structures without any active manipulation or instrument use. The scene remains static with no significant changes observed in the tissue or environment.
+
+============================================================
+
+[L01_window_0220-0239.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear away blood and debris from the tissue surfaces. The instrument is moved slightly to different areas, ensuring thorough cleaning of the surgical field. The camera captures the meticulous process of removing blood clots and maintaining visibility for further procedures.
+
+============================================================
+
+[L01_window_0240-0259.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera provides a close-up view of the nasal cavity as the suction is applied, revealing the meticulous attention to detail required during this part of the procedure.
+
+============================================================
+
+[L01_window_0260-0279.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument moves slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera captures the meticulous process of removing blood clots and maintaining a clear view of the operative field.
+
+============================================================
+
+[L01_window_0280-0299.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning and visualization of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The instrument is held steady at times, allowing for detailed inspection of the area being treated.
+
+============================================================
+
+[L01_window_0300-0319.txt]
+The endoscope is positioned within the nasal cavity, providing a close-up view of the tissue. The instrument appears to be held steady, with no active manipulation occurring. The scene suggests a pause in the surgical procedure, allowing for inspection of the current condition of the tissue.
+
+============================================================
+
+[L01_window_0320-0339.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear fluid and debris from the tissue surface. The instrument is moved slightly to ensure thorough cleaning of the area, maintaining a steady hand throughout the process.
+
+============================================================
+
+[L01_window_0340-0359.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear fluid and debris from the tissue surfaces. The camera provides close-up views of the nasal passages as the suction is applied, revealing the smooth, moist mucosa. The instrument is held steadily, allowing for precise cleaning of the area.
+
+============================================================
+
+[L01_window_0360-0379.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The focus remains on maintaining a clear view of the operative field as the procedure progresses.
+
+============================================================
+
+[L01_window_0380-0399.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera provides a close-up view of the nasal cavity as the suction is applied, highlighting the meticulous attention to detail required during this part of the procedure.
+
+============================================================
+
+[L01_window_0400-0419.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning and visualization of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The instrument is held steady at times, allowing for detailed inspection of the area being treated.
+
+============================================================
+
+[L01_window_0420-0439.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera provides a close-up view of the nasal cavity, highlighting the meticulous attention to detail as the surgeon prepares the site for further procedures.
+
+============================================================
+
+[L01_window_0440-0459.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The instrument is held steady at times, allowing for brief pauses to inspect the cleaned areas before proceeding with further manipulations.
+
+============================================================
+
+[L01_window_0460-0479.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The surgeon's focus remains on maintaining a clear view of the operative site, facilitating precise manipulation of the tissue.
+
+============================================================
+
+[L01_window_0480-0499.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The surgeon's focus remains on maintaining a clear view for precise manipulation of the tissues.
+
+============================================================
+
+[L01_window_0500-0519.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera captures the meticulous process of removing blood clots and maintaining a clear view of the operative field.
+
+============================================================
+
+[L01_window_0520-0539.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear away blood and debris from the tissue surfaces. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The focus remains on maintaining a clear view of the operative field as the procedure progresses.
+
+============================================================
+
+[L01_window_0540-0559.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear away blood and debris from the tissue surfaces. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The camera captures the meticulous process as the surgeon prepares the site for further procedures.
+
+============================================================
+
+[L01_window_0560-0579.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the surgical site. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the area. The suction is applied intermittently as needed to maintain a clear view of the tissue. The surgical field remains relatively stable throughout, with no significant changes in the tissue's appearance or the instrument's position.
+
+============================================================
+
+[L01_window_0580-0599.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the surgical site. The instrument is moved methodically across the area, ensuring thorough cleaning of the tissue surfaces. The suction action is repeated several times, with brief pauses between to assess the field and adjust the position of the instrument as needed. The focus remains on maintaining a clear view of the surgical area to facilitate precise manipulation of the tissues.
+
+============================================================
+
+[L01_window_0600-0619.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the surgical site. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the area. The camera provides a close-up view of the nasal passage as the suction is applied, revealing the meticulous nature of the procedure. The instrument is held steady for brief moments to allow for better visualization before continuing with the suctioning process.
+
+============================================================
+
+[L01_window_0620-0639.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to ensure thorough cleaning of the area, revealing more of the underlying tissue as the blood is removed. The suction is paused briefly to allow for a clearer view of the surgical site before continuing with the cleaning process.
+
+============================================================
+
+[L01_window_0640-0659.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The suction is applied intermittently as needed to maintain a clear view of the operative field.
+
+============================================================
+
+[L01_window_0660-0679.txt]
+The endoscope is used to visualize the nasal cavity, focusing on the area near the posterior nasal septum. The instrument is held steady as the surgeon inspects the tissue, occasionally adjusting its position slightly to get a better view. There is no active manipulation with instruments such as suction or dissectors during this segment. The scene suggests a pause in the surgical procedure, likely for assessment or preparation before proceeding with further interventions.
+
+============================================================
+
+[L01_window_0680-0699.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The camera provides a close-up view of the nasal passage as the suction is applied, revealing the mucosal lining and any residual blood clots. The instrument is held steadily, allowing for precise cleaning of the area. The focus remains on the nasal cavity, with no significant changes in the surgical approach observed.
+
+============================================================
+
+[L01_window_0700-0719.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning and visualization of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The surgeon's focus remains on maintaining a clear view for precise manipulation of the tissues.
+
+============================================================
+
+[L01_window_0720-0739.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The camera provides a close-up view of the nasal passages as the suction is applied, revealing the meticulous cleaning process. The instrument is held steadily, ensuring thorough removal of any obstructive material while maintaining a clear view of the surgical field.
+
+============================================================
+
+[L01_window_0740-0759.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera provides a close-up view of the nasal cavity as the suction is applied, revealing the meticulous attention to detail required during this part of the procedure.
+
+============================================================
+
+[L01_window_0760-0779.txt]
+The endoscope is positioned within the nasal cavity, providing a clear view of the nasal passages. The camera captures the mucosal lining and surrounding tissues as the endoscope is slowly moved and adjusted to explore different areas. There is no active manipulation with instruments during this segment, indicating a momentary pause in the surgical procedure to assess the current condition of the nasal cavity.
+
+============================================================
+
+[L01_window_0780-0799.txt]
+The endoscope is positioned within the nasal cavity, providing a close-up view of the mucosal surfaces. The camera captures the smooth, red tissue lining the nasal passages as the endoscope moves slightly, revealing different angles of the nasal cavity. There is no active manipulation by an instrument during this segment; the focus remains on the visualization of the nasal anatomy.
+
+============================================================
+
+[L01_window_0800-0819.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument is moved methodically across different areas, ensuring thorough cleaning and visualization of the surgical field. The camera captures close-up views of the nasal passages as the suction is applied, highlighting the meticulous nature of the procedure. The surgeon's focus remains on preparing the area for further steps in the endoscopic sinus surgery.
+
+============================================================
+
+[L01_window_0820-0839.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surfaces. The instrument moves methodically across different areas, ensuring thorough cleaning and visualization of the surgical field. The camera captures close-up views of the nasal passages as the suction helps to maintain a clear operating environment. There is no active manipulation of tissue at this moment; the focus remains on clearing the area for further procedures.
+
+============================================================
+
+[L01_window_0840-0859.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The camera captures close-up views of the nasal cavity as the suction is applied, highlighting the meticulous nature of the procedure. The instrument is held steady at times, allowing for brief pauses to inspect the cleaned area before continuing with further manipulations.
+
+============================================================
+
+[L01_window_0860-0879.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera captures the meticulous process of removing blood clots and maintaining a clear view of the operative field.
+
+============================================================
+
+[L01_window_0880-0899.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the surgical site. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the area. The focus remains on maintaining a clear view of the surgical field as the procedure progresses.
+
+============================================================
+
+[L01_window_0900-0919.txt]
+The surgeon continues the endoscopic sinus surgery by using a suction device to clear blood and debris from the nasal cavity. The instrument is moved gently across the tissue to ensure thorough cleaning while maintaining a steady hand to avoid damaging the delicate structures. The camera provides a close-up view of the nasal passage as the suction is applied, highlighting the meticulous nature of the procedure.
+
+============================================================
+
+[L01_window_0920-0939.txt]
+The surgeon continues the endoscopic sinus surgery, focusing on the nasal cavity. The endoscope provides a clear view of the nasal passages as the surgeon maneuvers the instrument to inspect the area. The nasal mucosa appears healthy with no visible abnormalities. The surgeon's hand is not visible, indicating the use of a remote-controlled device for precise manipulation. The environment suggests a sterile setting typical of endoscopic procedures.
+
+============================================================
+
+[L01_window_0940-0959.txt]
+The endoscope is positioned within the nasal cavity, providing a clear view of the tissue surfaces. The camera captures the mucosal lining and surrounding areas, with minimal movement indicating a pause in active manipulation. The environment appears stable, with no significant changes observed in the tissue or the field of view.
+
+============================================================
+
+[L01_window_0960-0979.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to ensure thorough cleaning of the area, maintaining a steady hand throughout the process. The camera provides a close-up view of the nasal cavity as the suction is applied, highlighting the meticulous nature of the task.
+
+============================================================
+
+[L01_window_0980-0999.txt]
+The surgeon continues the endoscopic sinus surgery, using a suction device to clear blood and debris from the nasal cavity. The instrument is moved gently across the tissue, ensuring thorough cleaning while maintaining a steady hand to avoid damage to the delicate structures. The camera provides a close-up view of the nasal passage as the suction works to improve visibility and prepare the area for further procedures.
+
+============================================================
+
+[L01_window_1000-1019.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The suction action is repeated several times, with brief pauses between to assess the cleared area. The focus remains on maintaining a clear view of the surgical site as the procedure progresses.
+
+============================================================
+
+[L01_window_1020-1039.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The camera provides a close-up view of the nasal cavity as the suction is applied, highlighting the meticulous nature of the procedure. The instrument is held steady at times, allowing for inspection of the cleared area before proceeding with further manipulations.
+
+============================================================
+
+[L01_window_1040-1059.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The suction action is repeated several times, maintaining a clear view of the underlying tissue as the procedure progresses.
+
+============================================================
+
+[L01_window_1060-1079.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved methodically across the area, ensuring thorough cleaning of the surgical field. The camera provides a close-up view of the nasal cavity as the suction is applied, highlighting the meticulous nature of the procedure.
+
+============================================================
+
+[L01_window_1080-1099.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The camera provides a close-up view of the nasal cavity, highlighting the meticulous attention to detail as the surgeon prepares the field for further procedures.
+
+============================================================
+
+[L01_window_1100-1119.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to ensure thorough cleaning of the area, revealing more of the underlying tissue as the blood is removed. The suction is applied intermittently, allowing the surgeon to inspect the field between applications. The camera angle shifts slightly, providing different perspectives of the nasal cavity as the suction is used.
+
+============================================================
+
+[L01_window_1120-1139.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The suction action is repeated several times, maintaining a clear view of the tissue as the procedure progresses.
+
+============================================================
+
+[L01_window_1140-1153.txt]
+The surgeon continues to work within the nasal cavity, using a suction device to clear blood and debris from the tissue surface. The instrument is moved slightly to adjust its position, ensuring thorough cleaning of the surgical area. The suction action is repeated several times, maintaining a clear view of the tissue as the procedure progresses.
+
+============================================================
+

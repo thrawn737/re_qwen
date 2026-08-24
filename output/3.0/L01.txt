@@ -1,0 +1,294 @@
+手术ID: L01
+总窗口数: 58
+============================================================
+
+[L01_window_0000-0019.txt]
+The endoscope is held steady, providing a clear view of the nasal cavity. The tissue appears smooth and unobstructed, with no visible instruments or active manipulation. The endoscope is used to inspect the area, ensuring a clear view of the nasal cavity.
+
+============================================================
+
+[L01_window_0020-0039.txt]
+The instrument, likely a forceps or a similar tool, is maneuvered within the nasal cavity, with the camera capturing the internal view. The instrument is held steady, with no active manipulation, as the field of view remains consistent, showing the mucosal surface and surrounding tissue. The camera and the instrument appear to be in a stable position, with no significant movement or changes in the visual perspective.
+
+============================================================
+
+[L01_window_0040-0059.txt]
+The surgeon inspects the nasal cavity, moving the endoscope to view the posterior nasal cavity. The instrument is held steady, and there is no active manipulation of the tissue. The view of the nasal cavity is clear, and the tissue appears smooth and free of visible abnormalities.
+
+============================================================
+
+[L01_window_0060-0079.txt]
+The endoscopic view of the nasal cavity is shown, with the camera moving slightly to reveal the nasal cavity and the posterior pharyngeal wall. The view is static, and no active manipulation or instrument movement is observed. The mucosa appears smooth, and there are no visible signs of bleeding or tissue manipulation. The camera moves to a slightly different angle, and the view of the nasal cavity and pharynx remains unchanged. The image sequence shows the endoscopic view of the nasal cavity and the posterior pharyngeal wall, with no active surgical maneuvers or instrument movement.
+
+============================================================
+
+[L01_window_0080-0099.txt]
+The endoscope is advanced through the nasal cavity, with the camera capturing the view of the posterior nasal cavity. The tissue appears slightly congested, and the endoscope is maneuvered to inspect the area. The camera view is stable, and the endoscope is held steady, with no active manipulation or instrument movement observed in the sequence.
+
+============================================================
+
+[L01_window_0100-0119.txt]
+The endoscope is positioned in the nasopharynx, and the camera captures a view of the nasopharyngeal mucosa. The instrument appears to be in a stationary position, and there is no visible manipulation or movement. The view is static, and the tissue appears smooth and unaltered.
+
+============================================================
+
+[L01_window_0120-0139.txt]
+The surgeon inspects the nasal cavity, moving the endoscope slightly to observe the tissue and fluid in the nasal cavity. The endoscope is held steady, and no active manipulation of the tissue or instruments is observed. The view of the nasal cavity remains consistent, with the endoscope providing a clear view of the tissue and fluid.
+
+============================================================
+
+[L01_window_0140-0159.txt]
+The surgeon inspects the nasal cavity, maneuvering the endoscope to examine the tissue, with the instrument held steady. The view shifts slightly as the endoscope is repositioned, and the instrument is manipulated to inspect the tissue, with no active manipulation or movement observed.
+
+============================================================
+
+[L01_window_0160-0179.txt]
+The endoscope is inserted into the nasal cavity, and the camera captures the view of the posterior pharyngeal wall. The instrument is held steady, and the endoscope moves slightly to adjust the view. The posterior pharyngeal wall and the surrounding tissue are observed, and no active manipulation or surgery is performed in this segment.
+
+============================================================
+
+[L01_window_0180-0199.txt]
+The surgeon inspects the nasal cavity, moving the endoscope slightly to view different angles. The instrument is held steady, and no active manipulation or surgical action is performed in this segment.
+
+============================================================
+
+[L01_window_0200-0219.txt]
+The endoscope is advanced and maneuvered within the nasal cavity, providing a close-up view of the tissue. The camera moves slightly to inspect the nasal cavity, with no active manipulation or instrument in the field. The view remains stable, focusing on the internal nasal structures.
+
+============================================================
+
+[L01_window_0220-0239.txt]
+The endoscope is advanced and repositioned within the nasal cavity, with no active manipulation of the instrument. The view shows the nasal cavity, with the endoscope moving slightly to inspect different areas. The instrument is held steady, and the camera captures the mucosal surface and the nasal cavity.
+
+============================================================
+
+[L01_window_0240-0259.txt]
+The surgeon is using a suction instrument to clear blood and mucus from the nasal cavity, with the endoscope providing a clear view of the surgical field. The instrument moves slightly to adjust the suction and remove debris, ensuring a clean and unobstructed view of the tissue.
+
+============================================================
+
+[L01_window_0260-0279.txt]
+The endoscopic view of the nasal cavity appears relatively stable, with no active manipulation of the tissue or instruments. The camera is positioned to capture the lateral wall of the nasal cavity, and the tissue surface is visible, showing a slightly edematous or inflamed appearance. The light and camera angle remain consistent, and there is no evidence of bleeding or active surgical intervention in these frames.
+
+============================================================
+
+[L01_window_0280-0299.txt]
+The surgeon inspects the nasal cavity, moving the endoscope to view different areas. The tissue appears smooth and normal, with no visible signs of abnormality or bleeding. The camera captures the mucosa and nasal cavity walls, and the endoscope is held steady to ensure a clear view.
+
+============================================================
+
+[L01_window_0300-0319.txt]
+The endoscope is positioned within the nasal cavity, with the camera angle focused on the posterior nasal cavity. The instrument is held steady, and there is no active manipulation or movement. The view is static, and the tissue appears smooth and unaltered. The camera angle and the instrument's position remain consistent throughout the sequence, providing a clear view of the posterior nasal cavity.
+
+============================================================
+
+[L01_window_0320-0339.txt]
+The endoscope is inserted into the nasal cavity, moving slightly to the right, and the camera captures the view of the posterior nose. The instrument is held steady, and there is no active manipulation of the tissue. The view is clear, and the tissue surface is visible.
+
+============================================================
+
+[L01_window_0340-0359.txt]
+The surgeon inspects the nasal cavity, moving the endoscope to view the nasal cavity. The view shows the nasal cavity with no visible instruments or active manipulation.
+
+============================================================
+
+[L01_window_0360-0379.txt]
+The surgeon continues the endoscopic sinus surgery, using a suction instrument to aspirate blood and fluid from the nasal cavity. The camera provides a close-up view of the nasal cavity, with the instrument moving slightly to clear the area. The tissue appears slightly congested, and the suction is used to maintain a clear view of the surgical field. The instrument is held steady for a moment, allowing the surgeon to inspect the tissue.
+
+============================================================
+
+[L01_window_0380-0399.txt]
+The instrument, a suction, is used to clear blood and debris from the nasal cavity, ensuring a clear view of the surgical field. The instrument is moved slightly to adjust the view and remove blood, maintaining a steady and controlled suction.
+
+============================================================
+
+[L01_window_0400-0419.txt]
+The surgeon is using a suction instrument to clear blood and mucus from the nasal cavity, revealing the tissue surface. The instrument is moved and maneuvered to ensure a clear view of the surgical field, and the suction is applied to remove debris. The camera provides a close-up view of the nasal cavity, and the instrument is held steady for a short period to inspect the area.
+
+============================================================
+
+[L01_window_0420-0439.txt]
+The surgeon is using a surgical instrument, likely a dissector or forceps, to maneuver and visualize the nasal cavity. The instrument is moved slightly, and the camera angle shifts slightly, suggesting the surgeon is carefully inspecting the tissue and the area of interest. The tissue appears slightly congested, and the surgeon is likely preparing for the next step in the procedure.
+
+============================================================
+
+[L01_window_0440-0459.txt]
+The endoscope is inserted into the nasal cavity, and the camera view is adjusted to visualize the nasal passages. The endoscope is held steady, and the view is clear, showing the nasal cavity.
+
+============================================================
+
+[L01_window_0460-0479.txt]
+The video frames depict a close-up view of the endoscopic sinus surgery, focusing on the nasal cavity. The camera, likely a rigid endoscope, is positioned to capture the interior of the nasal passage, with a view of the posterior鼻腔 wall and the soft palate. The tissue appears slightly congested, and there are some blood clots visible, indicating the presence of bleeding. The camera moves slightly, providing a dynamic view of the nasal cavity, but no active manipulation or surgical instruments are present in the frames. The endoscope is held steady, and the view is primarily a static examination of the nasal cavity, with no significant movement or action taking place.
+
+============================================================
+
+[L01_window_0480-0499.txt]
+The endoscope is positioned in the nasal cavity, with the camera view showing the mucosal surface. The instrument is held steady, and there is no active manipulation or movement of the instrument. The view is of the nasal cavity, and the tissue appears normal with no visible pathology.
+
+============================================================
+
+[L01_window_0500-0519.txt]
+The endoscope is positioned in the nasal cavity, and the camera captures a view of the mucosal tissue. The instrument is held steady, with no active manipulation, as the camera moves slightly to inspect the tissue. The view remains consistent, with the endoscope providing a clear view of the nasal cavity.
+
+============================================================
+
+[L01_window_0520-0539.txt]
+The endoscopic view shows the nasal cavity with a slightly elevated tissue mass, which the instrument is gently aspirating. The tissue appears slightly edematous, and the instrument is seen moving slightly to apply the suction, clearing the view of blood and debris. The camera angle is mostly static, focusing on the tissue and the instrument's movement, with no significant changes in the tissue's appearance or the instrument's position.
+
+============================================================
+
+[L01_window_0540-0559.txt]
+The endoscope is positioned in the nasal cavity, with the camera capturing a close view of the tissue. The instrument appears to be in a stationary position, with the camera moving slightly to adjust the view. The tissue appears red and smooth, with no active manipulation or instrument movement observed. The camera captures the tissue and surrounding area, providing a detailed view of the surgical field.
+
+============================================================
+
+[L01_window_0560-0579.txt]
+The surgeon is using a suction instrument to clear blood and debris from the nasal cavity, which is a common step in endoscopic sinus surgery to improve visibility and access to the surgical field. The instrument is moved slightly to aspirate blood and tissue, and the field is inspected to ensure the area is clear. The endoscope, which is the main camera, remains in place to guide the procedure.
+
+============================================================
+
+[L01_window_0580-0599.txt]
+The surgeon uses a suction instrument to clear blood and tissue debris from the nasal cavity, focusing on the posterior鼻腔区域. The instrument is maneuvered gently to ensure the field is clear, and the procedure is performed with a steady and controlled motion.
+
+============================================================
+
+[L01_window_0600-0619.txt]
+The endoscope is inserted into the nasal cavity, and the camera provides a view of the nasal mucosa. The endoscope moves slightly to inspect the area, and the camera captures the tissue and the nasal cavity. The endoscope is held steady, and the camera provides a clear view of the tissue.
+
+============================================================
+
+[L01_window_0620-0639.txt]
+The surgeon is using a suction instrument to clean the surgical field, moving the instrument slightly to clear blood and tissue debris from the nasal cavity. The camera provides a close-up view of the nasal tissue, which appears slightly congested. The instrument is held steady for a brief pause, allowing the surgeon to inspect the area.
+
+============================================================
+
+[L01_window_0640-0659.txt]
+The surgeon uses a suction device to clear blood and tissue debris from the nasal cavity, while the endoscope is held steady to visualize the surgical field. The instrument moves slightly to adjust the suction and clear the area, and the endoscope is repositioned to inspect the tissue. The procedure continues with the instrument and endoscope working in tandem to maintain a clear view of the surgical site.
+
+============================================================
+
+[L01_window_0660-0679.txt]
+The endoscope is inserted into the nasal cavity, and the camera captures the internal view of the sinuses. The instrument is held steady, and the camera captures the mucosal surface, which appears slightly edematous. The endoscope is slightly maneuvered to observe the nasal cavity, and the view remains consistent with no active manipulation or instrument movement.
+
+============================================================
+
+[L01_window_0680-0699.txt]
+The endoscope is maneuvered through the nasal cavity, inspecting the mucosal surface. The camera captures the interior of the nasal passage, showing a slightly irregular tissue surface with a white, granular substance. The endoscope is held steady, and no active manipulation or instrument use is observed in this segment.
+
+============================================================
+
+[L01_window_0700-0719.txt]
+The surgeon, using a suction device, is actively clearing blood and mucus from the nasal cavity, revealing the underlying tissue. The instrument moves slightly to adjust the view, and the suction is applied intermittently to maintain a clear field of view. The endoscope is held steady, and the surgeon inspects the tissue surface, ensuring the area is thoroughly cleaned.
+
+============================================================
+
+[L01_window_0720-0739.txt]
+The endoscopic view of the nasal cavity is observed, with the endoscope moving slightly to inspect the mucosal surface. The tissue appears slightly edematous, and no active surgical instruments are in use. The camera provides a clear view of the nasal cavity, and the mucosa is examined for any abnormalities or bleeding. The endoscope is held steadily, and no further manipulations or procedures are performed in this segment.
+
+============================================================
+
+[L01_window_0740-0759.txt]
+The endoscope is positioned in the nasal cavity, with the camera moving slightly to capture the internal structures. The view appears to be of the posterior pharyngeal wall, with no active manipulation or instrument in view. The endoscope is held steady, and the image remains largely unchanged, indicating a pause in the surgical procedure.
+
+============================================================
+
+[L01_window_0760-0779.txt]
+The endoscope is positioned in the nasal cavity, providing a clear view of the tissue. The camera moves slightly, revealing the nasal cavity, the left and right nasal passages, and the posterior nasal cavity. The endoscope is held steady, and there is no active manipulation of the tissue or instruments.
+
+============================================================
+
+[L01_window_0780-0799.txt]
+The endoscopic sinus surgery continues with the endoscope maneuvering through the nasal cavity. The camera captures the interior of the nasal passages, with no active manipulation of instruments. The view appears stable, with no visible tissue movement or instrument interaction. The endoscope provides a clear view of the nasal cavity, and the tissue surface is observed for any abnormality or bleeding.
+
+============================================================
+
+[L01_window_0800-0819.txt]
+The surgeon continues the endoscopic sinus surgery, moving the endoscope slightly to inspect the nasal cavity. The camera captures a view of the nasal tissue, with some blood and fluid visible. The instrument remains static as the camera moves, providing a clear view of the tissue surface.
+
+============================================================
+
+[L01_window_0820-0839.txt]
+The surgeon inspects the nasal cavity, maneuvering the endoscope to examine the mucosal surface. The endoscope is held steady, with no active manipulation or instrument movement, as the camera captures the smooth, red tissue of the nasal cavity.
+
+============================================================
+
+[L01_window_0840-0859.txt]
+The surgeon continues the endoscopic sinus surgery, using a suction instrument to clear blood and debris from the nasal cavity. The instrument moves gently, maneuvering to remove blood clots and tissue debris, which is suctioned away, revealing the underlying tissue. The surgical field is gradually cleared, and the instrument is held steady in some frames, allowing for a brief pause to inspect the area.
+
+============================================================
+
+[L01_window_0860-0879.txt]
+The endoscope is maneuvered to visualize the nasal cavity, with the camera moving slightly to capture the interior. The view shows the nasal tissue, and the endoscope is held steady, suggesting a pause in active manipulation.
+
+============================================================
+
+[L01_window_0880-0899.txt]
+The endoscope is moved slightly, providing a view of the nasal cavity. The instrument is held steady, and the field is inspected. The view is slightly shifted, and the endoscope is repositioned to capture a different angle of the tissue. The instrument is held in place, and the field is examined.
+
+============================================================
+
+[L01_window_0900-0919.txt]
+The surgeon uses a scalpel to make a incision in the tissue, likely to access a deeper area of the nasal cavity. The instrument is held steady, and the camera captures the incision and surrounding tissue. The incision is the focal point of the image, and the camera remains in a fixed position, capturing the view of the incision and the tissue.
+
+============================================================
+
+[L01_window_0920-0939.txt]
+The endoscope is maneuvered to examine the nasal cavity, with a focus on the right nasal cavity. The camera captures the mucosal surface, which appears smooth and free of visible polyps or masses. The endoscope is held steady, and the view is clear, allowing for a detailed examination of the nasal cavity.
+
+============================================================
+
+[L01_window_0940-0959.txt]
+The endoscope is positioned within the nasal cavity, with the camera angle slightly tilted to view the posterior pharyngeal wall. The tissue appears slightly congested, and there are some visible blood clots. The endoscope is held steady, and the camera captures the surface of the tissue, which appears smooth with a few small, irregular areas. The endoscope is moved slightly to the right, and the view changes to the right lateral wall of the pharynx, which appears normal without any visible lesions or irregularities. The endoscope is then moved back to the posterior pharyngeal wall, and the camera captures the same area as before, with no active manipulation or surgical action occurring.
+
+============================================================
+
+[L01_window_0960-0979.txt]
+The surgeon is using a suction instrument to clear blood and mucus from the nasal cavity, revealing the tissue surface. The instrument is maneuvered gently to ensure the field is clean and the view is clear, facilitating the subsequent steps of the endoscopic sinus surgery.
+
+============================================================
+
+[L01_window_0980-0999.txt]
+The endoscope is inserted into the nasal cavity, providing a clear view of the mucosal surface. The camera moves slightly to the right, showing a small, white, circular object in the nasal cavity. The camera then moves back to the center, and the endoscope remains stationary, allowing for a detailed examination of the tissue.
+
+============================================================
+
+[L01_window_1000-1019.txt]
+The surgeon is using a suction instrument to aspirate fluid and blood from the nasal cavity, with the instrument moving slightly to clear the field of view. The suction action is repeated multiple times, with the instrument being lifted and repositioned to aspirate the tissue surface. The instrument is held steady for brief periods, allowing the surgeon to inspect the area.
+
+============================================================
+
+[L01_window_1020-1039.txt]
+The endoscope is maneuvered in the nasal cavity, with the instrument tip visualizing the tissue surface. The endoscope is held steady, and the field is inspected, with no active manipulation or instrument movement.
+
+============================================================
+
+[L01_window_1040-1059.txt]
+The surgeon is performing endoscopic sinus surgery, using a suction instrument to clear blood and tissue debris from the nasal cavity. The instrument moves slightly, maneuvering to the left side of the nasal cavity, and the suction is applied to the tissue surface, removing blood and tissue, revealing the underlying tissue. The instrument is held steady for a brief period, and the camera angle slightly shifts to the right, providing a clearer view of the surgical area. The instrument moves again, suctioning the tissue, and the camera angle adjusts slightly, showing the instrument in a different position, continuing the removal of tissue debris.
+
+============================================================
+
+[L01_window_1060-1079.txt]
+The surgeon continues to work in the nasal cavity, using a suction instrument to clear blood and tissue debris from the surgical field. The instrument moves slightly, and the camera angle shifts slightly, revealing the posterior part of the nasal cavity. The instrument is held steady for a brief moment, and the camera again moves slightly, providing a clear view of the surgical area.
+
+============================================================
+
+[L01_window_1080-1099.txt]
+The surgeon continues the endoscopic sinus surgery, visualizing the nasal cavity. The endoscope is moved slightly to inspect the tissue, and the tissue appears smooth with no visible obstructions. The camera view is stable, and the endoscope is held steady, allowing for a clear view of the nasal cavity.
+
+============================================================
+
+[L01_window_1100-1119.txt]
+The surgeon uses a suction tool to clear the nasal cavity, moving the instrument slightly to remove excess blood and tissue debris. The camera captures the mucosal surface and the area of tissue manipulation, with the instrument held steady for brief moments to inspect the field.
+
+============================================================
+
+[L01_window_1120-1139.txt]
+The endoscope is positioned in the nasal cavity, with the instrument tip gently maneuvering to visualize the tissue. The camera captures the red, tissue-covered surface, and the instrument appears to be in a state of inspection, with no active manipulation or movement of the tissue. The view remains steady, and there is no evidence of the instrument being used to clear blood or perform a surgical procedure.
+
+============================================================
+
+[L01_window_1140-1153.txt]
+The surgeon maneuvers the endoscope to examine the nasal cavity, with the instrument held steady in the sinus area. The view shows the nasal mucosa and surrounding tissue, with no active instrument manipulation observed in the frames. The endoscope is repositioned slightly to provide a clear view of the tissue surface, and the camera captures the mucosa and the endoscopic tool in the nasal cavity.
+
+============================================================
+
