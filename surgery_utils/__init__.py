@@ -20,7 +20,7 @@ from .data_loader import (
     get_sliding_windows_with_info  # 新增
 )
 
-from .prompt_builder import (
+from .prompt_builder2 import (
     build_multi_image_prompt,
     build_simple_prompt,
     build_frame_reference_prompt
