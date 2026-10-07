@@ -33,7 +33,13 @@ def parse_args():
     parser.add_argument("--fps", type=float, default=3)
     parser.add_argument("--clip_file", type=str, default="./output/clip.txt")
     parser.add_argument("--percentile_a", type=float, default=0.85)
-    parser.add_argument("--percentile_c", type=float, default=1.0)
+    parser.add_argument("--percentile_c", type=float, default=0.95)
+
+    # ===== Clipping limit switch =====
+    parser.add_argument("--limit_clip", action="store_true",
+                        help="Enable clipping limit: at most 5 truncations, no consecutive truncations")
+    parser.add_argument("--max_clip_count", type=int, default=5,
+                        help="Maximum number of truncations per group when --limit_clip is enabled")
     return parser.parse_args()
 
 
@@ -140,7 +146,9 @@ def select_v0_v1_v2(features):
     return [v0, v1, v2] if v2 != -1 else [v0, v1]
 
 
-def sample_group_from_video_adaptive(video_path, start_frame, end_frame, output_dir, prefix, target_size, left_crop=0.18, right_crop=0.25, model=None, processor=None, device=None):
+def sample_group_from_video_adaptive(video_path, start_frame, end_frame, output_dir, prefix, target_size,
+                                     left_crop=0.18, right_crop=0.25,
+                                     model=None, processor=None, device=None):
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
         raise IOError(f"Cannot open video: {video_path}")
@@ -225,55 +233,8 @@ def sample_group_from_video_adaptive(video_path, start_frame, end_frame, output_
     return saved_count
 
 
-def merge_small_groups(groups_info):
-    if len(groups_info) <= 1:
-        return groups_info
-
-    changed = True
-    while changed:
-        changed = False
-        durations = [g['end_frame'] - g['start_frame'] for g in groups_info]
-        if not durations:
-            break
-        avg_duration = np.mean(durations)
-        threshold = avg_duration / 2
-
-        for idx in range(len(groups_info)):
-            dur = groups_info[idx]['end_frame'] - groups_info[idx]['start_frame']
-            if dur < threshold:
-                left_idx = idx - 1
-                right_idx = idx + 1
-
-                candidates = []
-                if left_idx >= 0:
-                    left_dur = groups_info[left_idx]['end_frame'] - groups_info[left_idx]['start_frame']
-                    candidates.append((left_idx, left_dur))
-                if right_idx < len(groups_info):
-                    right_dur = groups_info[right_idx]['end_frame'] - groups_info[right_idx]['start_frame']
-                    candidates.append((right_idx, right_dur))
-
-                if not candidates:
-                    continue
-
-                merge_idx = min(candidates, key=lambda x: x[1])[0]
-
-                if merge_idx < idx:
-                    groups_info[merge_idx]['end_frame'] = groups_info[idx]['end_frame']
-                    del groups_info[idx]
-                else:
-                    groups_info[merge_idx]['start_frame'] = groups_info[idx]['start_frame']
-                    del groups_info[idx]
-
-                changed = True
-                break
-
-    for new_gid, g in enumerate(groups_info, 1):
-        g['gid'] = new_gid
-
-    return groups_info
-
-
-def compute_a_c_from_clips(clip_file, image_dir, model, processor, device, percentile_a=0.85, percentile_c=1.0):
+def compute_a_c_from_clips(clip_file, image_dir, model, processor, device,
+                           percentile_a=0.85, percentile_c=0.95):
     if not os.path.exists(clip_file):
         print(f"Warning: {clip_file} not found, using default a=0.2, c=0.5")
         return 0.2, 0.5
@@ -317,7 +278,7 @@ def compute_a_c_from_clips(clip_file, image_dir, model, processor, device, perce
         features = np.array(features)
 
         for i in range(len(features) - 1):
-            cos_sim = cosine_similarity([features[i]], [features[i+1]])[0][0]
+            cos_sim = cosine_similarity([features[i]], [features[i + 1]])[0][0]
             cos_sim = max(-1.0, min(1.0, cos_sim))
             theta = math.acos(cos_sim)
             all_angles.append(theta)
@@ -344,11 +305,11 @@ def main():
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
 
     if args.auto_crop:
-        print("Auto-detecting left/right crop...")
+        print("Auto-detecting left/right black borders...")
         auto_left, auto_right = auto_detect_crop_ratios(args.video_path)
         args.left_crop = auto_left
         args.right_crop = auto_right
-        print(f"Using auto crop: left {args.left_crop:.4f}, right {args.right_crop:.4f}")
+        print(f"Using auto-detected crop: left {args.left_crop:.4f}, right {args.right_crop:.4f}")
     else:
         print(f"Using manual crop: left {args.left_crop}, right {args.right_crop}")
 
@@ -374,9 +335,11 @@ def main():
         c_value = args.c
         print(f"Using specified a = {a_value}, c = {c_value}")
 
-    print(f"Grouping: a={a_value}, c={c_value}, X={args.X}, N={args.N}")
+    print(f"Cumulative angle grouping: a={a_value}, c={c_value}, X={args.X}, N={args.N}")
+    print(f"Clipping limit: {'enabled' if args.limit_clip else 'disabled'}")
 
-    all_files = sorted([f for f in os.listdir(args.image_dir) if f.startswith('frame_') and f.endswith('.jpg')],
+    all_files = sorted([f for f in os.listdir(args.image_dir)
+                        if f.startswith('frame_') and f.endswith('.jpg')],
                        key=extract_frame_number)
     if not all_files:
         print("Error: no frame images found")
@@ -400,6 +363,7 @@ def main():
         cum = 0.0
         group_indices = [i]
         j = i + 1
+
         clip_count = 0
         last_truncated = False
 
@@ -408,15 +372,19 @@ def main():
             theta = math.acos(max(-1, min(1, cos)))
             d = args.b if theta <= a_value else theta - a_value
 
-            if d > c_value:
-                if (not last_truncated) and (clip_count < 5):
-                    d = c_value
-                    clip_count += 1
-                    last_truncated = True
+            if args.limit_clip:
+                if d > c_value:
+                    if (not last_truncated) and (clip_count < args.max_clip_count):
+                        d = c_value
+                        clip_count += 1
+                        last_truncated = True
+                    else:
+                        last_truncated = False
                 else:
                     last_truncated = False
             else:
-                last_truncated = False
+                if d > c_value:
+                    d = c_value
 
             cum += d
             if cum >= args.X:
@@ -439,7 +407,7 @@ def main():
             continue
 
         groups_info.append({
-            'gid': 0,
+            'gid': len(groups_info) + 1,
             'start_frame': start_frame,
             'end_frame': end_frame
         })
@@ -451,10 +419,7 @@ def main():
             if i == start:
                 i += 1
 
-    print(f"Initial grouping done, {len(groups_info)} groups")
-
-    groups_info = merge_small_groups(groups_info)
-    print(f"After merging small groups, {len(groups_info)} groups")
+    print(f"Grouping done, {len(groups_info)} groups")
 
     print("Sampling...")
     for info in groups_info:
@@ -468,7 +433,7 @@ def main():
         )
         info['output_dir'] = output_dir
         info['n_sampled'] = n_sampled
-        print(f"Group {gid}: frames {info['start_frame']} → {info['end_frame']}, sampled {n_sampled} (adaptive)")
+        print(f"Group {gid}: frames {info['start_frame']} -> {info['end_frame']}, sampled {n_sampled} (adaptive)")
 
     os.makedirs(os.path.dirname(args.output_txt), exist_ok=True)
     with open(args.output_txt, 'w') as f:
@@ -477,6 +442,9 @@ def main():
         f.write(f"a: {a_value:.6f}\n")
         f.write(f"c: {c_value:.6f}\n")
         f.write(f"X: {args.X}\n")
+        f.write(f"limit_clip: {args.limit_clip}\n")
+        if args.limit_clip:
+            f.write(f"max_clip_count: {args.max_clip_count}\n")
         for info in groups_info:
             start_time = frame_to_time(info['start_frame'])
             end_time = frame_to_time(info['end_frame'])
@@ -488,7 +456,7 @@ def main():
             f.write(f"  output_dir: {info['output_dir']}\n")
             f.write(f"  n_sampled: {info['n_sampled']}\n")
 
-    print(f"Grouping info saved to: {args.output_txt}")
+    print(f"Group info saved to: {args.output_txt}")
 
 
 if __name__ == "__main__":
