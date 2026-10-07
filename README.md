@@ -118,7 +118,7 @@ Run the grouping step twice per video, once without `--limit_clip` and once with
 **Mode A: unconditional clipping**
 
 ```bash
-python group_with_adaptive_b_no_merge.py \
+python group_with_adaptive_b.py \
     --image_dir "${DATA_ROOT}/${video}" \
     --video_path "${VIDEO_ROOT}/${video}/${video}.mp4" \
     --output_root "./output/groups_b_unlimited/sampled_groups_${video}" \
@@ -132,7 +132,7 @@ python group_with_adaptive_b_no_merge.py \
 
 # Mode B: limited clipping
 
-python group_with_adaptive_b_no_merge.py \
+python group_with_adaptive_b.py \
     --image_dir "${DATA_ROOT}/${video}" \
     --video_path "${VIDEO_ROOT}/${video}/${video}.mp4" \
     --output_root "./output/groups_b_limited/sampled_groups_${video}" \
